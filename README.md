@@ -275,23 +275,21 @@ Fuel price fluctuations may influence EV adoption and consumer purchasing behavi
 
 BMW_Global_Sales_Analysis
 │
-├── Data
-│ └── bmw_global_sales_2018_2025.csv
+├ Data
+│   └ bmw_global_sales_2018_2025.csv
 │
-├── Images
-│ ├── Regional_Revenue.png
-│ ├── Model_Revenue.png
-│ ├── Revenue_Trend.png
-│ ├── EV_Trend.png
-│ ├── Fuel_vs_EV.png
-│ ├── GDP_Growth_vs_Sales.png
-│ └── Dashboard.png
+├ Images
+│   ├ Dashboard.png
+│   ├ EV_Trend.png
+│   ├ Fuel_vs_EV.png
+│   ├ GDP_Growth_vs_Sales.png
+│   ├ Model_Revenue.png
+│   ├ Regional_Revenue.png
+│   └ Revenue_Trend.png
 │
-├── BMW_Global_Sales_Analysis.xlsx
-│
-├── BMW_Global_Sales_Analysis_Report.pdf
-│
-└── README.md
+├ BMW_Global_Sales_Analysis.xlsx
+├ BMW_Global_Sales_Analysis_Report.pdf
+├ README.md
 
 ---
 
