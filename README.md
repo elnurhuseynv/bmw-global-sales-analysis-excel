@@ -280,13 +280,13 @@ BMW_Global_Sales_Analysis
 │   └ bmw_global_sales_2018_2025.csv
 │
 ├ Images
-│   ├ Dashboard.png
+│   ├ Regional_Revenue.png
+│   ├ Model_Revenue.png
+│   ├ Revenue_Trend.png
 │   ├ EV_Trend.png
 │   ├ Fuel_vs_EV.png
 │   ├ GDP_Growth_vs_Sales.png
-│   ├ Model_Revenue.png
-│   ├ Regional_Revenue.png
-│   └ Revenue_Trend.png
+│   └ Dashboard.png
 │
 ├ BMW_Global_Sales_Analysis.xlsx
 ├ BMW_Global_Sales_Analysis_Report.pdf
