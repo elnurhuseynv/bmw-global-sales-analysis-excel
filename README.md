@@ -273,6 +273,7 @@ Fuel price fluctuations may influence EV adoption and consumer purchasing behavi
 
 # Project Structure
 
+```
 BMW_Global_Sales_Analysis
 │
 ├ Data
@@ -290,6 +291,7 @@ BMW_Global_Sales_Analysis
 ├ BMW_Global_Sales_Analysis.xlsx
 ├ BMW_Global_Sales_Analysis_Report.pdf
 ├ README.md
+```
 
 ---
 
